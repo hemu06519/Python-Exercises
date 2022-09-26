@@ -18,7 +18,7 @@ Python Programming Exercises
 2 * 10 = 20
 
 Which of the following varaible names are valid ?
-  a) 1st_name
-  b) first.name
-  c) first_name
-  d) _first_name
+a) 1st_name  
+b) first.name  
+c) first_name  
+d) _first_name  
