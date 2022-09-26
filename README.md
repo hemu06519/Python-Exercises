@@ -1,7 +1,7 @@
 # Python-Exercises
 Python Programming Exercises
 
-## 001 print numbers from 1 to 100
+## 001 Write a python program to print numbers from 1 to 100
 
 ## 002 Take a number as user input and print numbers from 1 to the given input number n.
 
@@ -10,6 +10,7 @@ Python Programming Exercises
 ## 004 Find prime numbers between 1 to 100
 
 ## 005 Write a program to print table for the give number n.
+
 2*1=2
 2*2=4
 -----
