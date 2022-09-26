@@ -11,8 +11,8 @@ Python Programming Exercises
 
 ## 005 Write a program to print table for the give number n.
 
+-----
+-----
 2 * 1 = 2
 2 * 2 = 4
------
------
 2 * 10 = 20
